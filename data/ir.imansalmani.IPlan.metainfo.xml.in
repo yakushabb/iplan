@@ -44,7 +44,6 @@
   <url type="bugtracker">https://github.com/iman-salmani/iplan/issues</url>
   <developer_name>Iman Salmani</developer_name>
   <custom>
-    <value key="Purism::form_factor">workstation</value>
     <value key="Purism::form_factor">mobile</value>
   </custom>
   <requires>
