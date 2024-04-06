@@ -54,9 +54,6 @@
     <control>keyboard</control>
     <control>touch</control>
   </recommends>
-  <categories>
-    <category>Utility</category>
-  </categories>
   <content_rating type="oars-1.1" />
   <releases>
     <release version="1.9.2" date="2023-07-17">
