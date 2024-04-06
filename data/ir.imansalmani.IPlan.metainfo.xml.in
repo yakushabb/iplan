@@ -42,6 +42,8 @@
   <launchable type="desktop-id">ir.imansalmani.IPlan.desktop</launchable>
   <url type="homepage">https://github.com/iman-salmani/iplan</url>
   <url type="bugtracker">https://github.com/iman-salmani/iplan/issues</url>
+  <url type="vcs-browser">https://github.com/iman-salmani/iplan</url>
+  <url type="translate">https://github.com/iman-salmani/iplan/tree/main/po</url>
   <developer_name>Iman Salmani</developer_name>
   <custom>
     <value key="Purism::form_factor">mobile</value>
