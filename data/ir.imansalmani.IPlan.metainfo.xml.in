@@ -40,6 +40,7 @@
     </screenshot>
   </screenshots>
   <launchable type="desktop-id">ir.imansalmani.IPlan.desktop</launchable>
+  <translation type="gettext">iplan</translation>
   <url type="homepage">https://github.com/iman-salmani/iplan</url>
   <url type="bugtracker">https://github.com/iman-salmani/iplan/issues</url>
   <url type="vcs-browser">https://github.com/iman-salmani/iplan</url>
